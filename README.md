@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Ravi Boodher, a self-motivated tech enthusiast and full stack web developer.
+I'm Ravi Boodher, a self-motivated tech enthusiast and full stack developer.
 </p>
 
 <h4 align="center">
