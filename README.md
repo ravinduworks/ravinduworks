@@ -5,6 +5,6 @@ I'm Ravi Boodher, a self-motivated tech enthusiast and full stack developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer <a href="https://github.com/raviboodher">@raviboodher</a> | 🌱 Engineering @ <a href="https://www.gojek.com">GoJek</a> | 💬 Connect @ <a href="https://www.linkedin.com/in/raviboodher/">LinkedIn</a>
+💻 full stack developer <a href="https://github.com/raviboodher">@raviboodher</a> | 🌱 Engineering @ <a href="https://www.compile.com">Compile</a> | 💬 Connect @ <a href="https://www.linkedin.com/in/raviboodher/">LinkedIn</a>
 </h4>
 
